@@ -2,7 +2,6 @@
 Slider with Redux
 <br>
 </br>
-
 اسلایدر با ریداکس زدم
 <br>
 </br>
